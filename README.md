@@ -157,10 +157,6 @@ http://wap.mikekohn.net/java.wml -- Java games, nice for testing JAD-downloads
 
 . ----------
 
-http://wap.mikekohn.net/java.wml
-
-. ----------
-
 http://wap.winwap.com/winwap.wml -- brief information on the WinWap browser, short, nice test page
 
 . ----------
