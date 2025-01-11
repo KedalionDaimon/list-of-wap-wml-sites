@@ -37,6 +37,24 @@ https://winkannel.bs0dd.net/
 
 . ----------
 
+PEAK COOL:
+
+http://wap.localize-friends.de/ -- most strangely, some sort of social media that allows chat creation; absolutely old wild west style, zero security, zero registration
+
+http://wap.localize-friends.de/wap/en/chat/rooms.wml -- chat rooms, use the Search function to find again a chatroom created
+
+http://wap.localize-friends.de/wap/en/chat/midpchat-216091.wml -- just give a "name" and some "text"
+
+Can also be reached from a desktop machine:
+
+http://www.localize-friends.de/www/en/chat/midpchat-216091.html
+
+Normal WWW site:
+
+http://www.localize-friends.de/index.html
+
+. ----------
+
 https://cobradile.neocities.org/index.wml#one -- personal website in Scottish dialect, appears written "live while having a stroke"; apparently the newest site on this list, last updated in 2023
 
 . ----------
@@ -139,13 +157,50 @@ http://wap.mikekohn.net/java.wml -- Java games, nice for testing JAD-downloads
 
 . ----------
 
+http://wap.mikekohn.net/java.wml
+
+. ----------
+
 http://wap.winwap.com/winwap.wml -- brief information on the WinWap browser, short, nice test page
 
 . ----------
 
+http://wap.sima.cat/index.wml -- Catalonian website with mostly local financial information
+
+. ----------
+
+http://wap.newsquest.co.uk/mobile/hampshire/sailsolent/HAMPSHIRE_SAILSOLENT_VOLVOOCEANRACE25.wml# -- some sort of test site, no central WML parent, but good content for experiments
+
+http://wap.newsquest.co.uk/mobile/corporate/jobssw/news/NEWS0.wml#
+
+. ----------
+
+http://wap.allaboutsymbian.com/index.wml -- unmaintained, Symbian centric, has some ringtones, links broken
+
+http://wap.allaboutsymbian.com/wmlnews.wml
+
+. ----------
+
+http://wap.weatherweb.net/index.wml -- British weather website, dead since 2005, but very complete and nice to navigate
+
+. ----------
+
+http://wap.simonanderson.com/ -- lovely personal site, nice WML script to add two numbers; not very robust, however: 2 + 5 = 7, but 2 + 0005 = [void, no answer]
+
+. ----------
+
+https://wap.hayastan.com/index.wml#index -- ringtones site, appears functional; mostly dead since 2005
+
+. ----------
+
+
+
+
 THE WORSE SITES
 
 http://www.dantagg.com/hello.wml -- not a proper website, but does show the useragent string, too
+
+https://www.wap.northwoodcc.co.uk/index.wml -- essentially nothing but a demo of redirection
 
 http://persan.nu/wml/start.wml -- Swedish personal website, little sensible content, most links broken; judging from "birthdate" and "age", the site has been unmaintained since 2016/2017
 
@@ -174,6 +229,8 @@ http://manule228.lh1.in/tipowap/twap-legacy.wml -- personal website, links not w
 http://www.jda1.com/weather/wap/index.wml -- weather in Chicopee in 2017
 
 http://gozo.ws/weather/wap/index.wml -- weather in Malta in 2013
+
+http://wap.euskadi.net/temario_i.wml# -- addresses and phones of Basque offices, including the president; note that funnily only the English version of the page ist still half-operational, as WAP has been desupported
 
 http://9timezones.com/indew.wml -- only "Texting for Godot" works.
 
